@@ -1,3 +1,5 @@
+# Skier: A game inspired by skifree
+[[foo][bar]]
 Controls:
 Key|Control
 :-:|:-:
